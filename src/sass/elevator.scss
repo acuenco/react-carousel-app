@@ -1,0 +1,12 @@
+.elevator {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 35px;
+    width: 25%;
+    justify-content: center;
+
+    .spacer {
+        width: 20px;
+    }
+}
