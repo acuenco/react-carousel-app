@@ -1,6 +1,6 @@
 import React, {} from 'react';
 import '../sass/arrows.scss'
-import RightArrowImage from '../images/arrow-right.png'
+import RightArrowImage from '../assets/arrow-right.png'
 
 type Props = {
     handleRightArrowClick: () => void

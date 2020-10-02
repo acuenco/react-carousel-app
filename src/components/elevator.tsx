@@ -1,6 +1,6 @@
 import React, {} from 'react';
-import Dot from '../images/ellipse.png'
-import SelectedDot from '../images/current-ellipse.png'
+import Dot from '../assets/ellipse.png'
+import SelectedDot from '../assets/current-ellipse.png'
 import '../sass/elevator.scss'
 
 type Props = {
