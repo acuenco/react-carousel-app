@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This react app demonstrates a bare bones carousel that is built with no 3rd party carousel libs.
 
 ## Live site:
-carousel-vc-assessment.netlify.app
+https://carousel-vc-assessment.netlify.app
 
 ## TODO:
 - Needs to be mobile friendly
