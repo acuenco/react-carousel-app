@@ -14,7 +14,7 @@ const Carousel = () => {
             handleRightArrowClick()
         }, 5000);
         return () => clearInterval(interval);
-    }, [activeSlide]);
+    }, [activeSlide]); // eslint-disable-line react-hooks/exhaustive-deps
     
     const handleRightArrowClick = () => {
         if (activeSlide === SlideData.length - 1) {

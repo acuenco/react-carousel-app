@@ -6,7 +6,6 @@ type Props = {
 }
 
 const VCButton = (props: Props) => {
-    const {handleClick} = props
     return(
         <button
           className='vc-button'
