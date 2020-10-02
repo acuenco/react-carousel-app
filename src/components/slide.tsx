@@ -1,7 +1,7 @@
 import React, {Fragment} from 'react';
 import ActionArea from './actionArea';
 import '../sass/slide.scss'
-
+import { Action } from '../models/Action'
 type Props = {
     action: Action
 }

@@ -1,6 +1,6 @@
-import image1  from '../images/group1-bg.png'
-import image2  from '../images/group2-bg.png'
-import image3  from '../images/group3-bg.png'
+import image1  from '../assets/group1-bg.png'
+import image2  from '../assets/group2-bg.png'
+import image3  from '../assets/group3-bg.png'
 
 export default [{
         title : "Spring 2021",
