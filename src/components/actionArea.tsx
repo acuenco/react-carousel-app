@@ -1,6 +1,7 @@
 import React, {Fragment} from 'react';
 import '../sass/actionArea.scss'
 import VCButton from './vcButton'
+import { Action } from '../models/Action'
 
 type Props = {
     actionProp: Action
